@@ -1,6 +1,6 @@
 # Hildie Su's Portfolio
 
-My name is Hidie and I am majoring in computer science at CSU Fullerton.
+Hi, my name is Hildie and I am majoring in computer science at CSU Fullerton.
 
 # Favortie CPSC-120L Labs
 
