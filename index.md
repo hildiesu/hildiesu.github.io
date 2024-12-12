@@ -1,8 +1,12 @@
-# Hildie Su's Portfolio
+# Hello World
 
-Hi, my name is Hildie and I am majoring in computer science at CSU Fullerton.
+This is my home page! My name is Hildie and I am a student at Cal State Fullerton and my major is Computer Science.
 
-# Favortie CPSC-120L Labs
+# Computer Science Projects
+
+My GitHub page is http://github.com/hildiesu. 
+
+# CPSC-120L
 
 **Lab 3, part-1**
   
@@ -10,7 +14,7 @@ Hi, my name is Hildie and I am majoring in computer science at CSU Fullerton.
 
 **Lab 7, part-2**
   
-  This lab was so fun to me, I love the idea of adding a game into code such as the HI-LO lab. This lab though was way more complex than the hi-lo game. We needed way way functions, loops, and problem solving to be able to execute this lab properly. This was my favorite because I also like the game black jack and seeing that we were able to do this lab in a beginner class made me so much more interested in what else I can do with code.
+  This lab was so fun to me, I love the idea of adding a game into code such as the HI-LO lab. This lab though was way more complex than the hi-lo game. We needed to use functions, loops, and problem solving to be able to execute this lab properly. This was my favorite because I also like the game black jack and seeing that we were able to do this lab in a beginner class made me so much more interested in what else I can do with code.
 
 **Lab 12, part-1, part-2**
   
